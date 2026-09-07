@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+audioenv/
+env/
+venv/
+*.wav
+*.mp3
+Voice zip folder/
